@@ -27,6 +27,11 @@ Uygulamanın sonunda
  1- Bütün filmler listelensin.
  2- Imdb puanı 4 ile 9 arasında olan bütün filmler listelensin.
  3- İsmi 'A' ile başlayan filmler ve imdb puanları listelensin.
+-
+
+Uygulamanın sonunda
+ 
+
 
 
 
