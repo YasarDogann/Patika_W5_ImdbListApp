@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week5\\patika_w5_ImdbApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBCF0B-9695-4C66-BABE-25E4009ABF52}|patika_w5_ImdbApp\\patika_w5_ImdbApp.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week5\\patika_w5_imdbapp\\patika_w5_imdbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBCF0B-9695-4C66-BABE-25E4009ABF52}|patika_w5_ImdbApp\\patika_w5_ImdbApp.csproj|solutionrelative:patika_w5_imdbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBCF0B-9695-4C66-BABE-25E4009ABF52}|patika_w5_ImdbApp\\patika_w5_ImdbApp.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week5\\patika_w5_imdbapp\\patika_w5_imdbapp\\imdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBCF0B-9695-4C66-BABE-25E4009ABF52}|patika_w5_ImdbApp\\patika_w5_ImdbApp.csproj|solutionrelative:patika_w5_imdbapp\\imdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imdb.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week5\\patika_w5_ImdbApp\\patika_w5_ImdbApp\\Imdb.cs",
+              "RelativeDocumentMoniker": "patika_w5_ImdbApp\\Imdb.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week5\\patika_w5_ImdbApp\\patika_w5_ImdbApp\\Imdb.cs",
+              "RelativeToolTip": "patika_w5_ImdbApp\\Imdb.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:37:36.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week5\\patika_w5_ImdbApp\\patika_w5_ImdbApp\\Program.cs",
+              "RelativeDocumentMoniker": "patika_w5_ImdbApp\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week5\\patika_w5_ImdbApp\\patika_w5_ImdbApp\\Program.cs",
+              "RelativeToolTip": "patika_w5_ImdbApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:36:43.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

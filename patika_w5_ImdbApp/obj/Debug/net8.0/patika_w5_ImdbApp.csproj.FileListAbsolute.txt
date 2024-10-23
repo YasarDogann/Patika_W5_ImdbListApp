@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\bin\Debug\net8.0\patika_w5_ImdbApp.exe
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\bin\Debug\net8.0\patika_w5_ImdbApp.deps.json
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\bin\Debug\net8.0\patika_w5_ImdbApp.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\bin\Debug\net8.0\patika_w5_ImdbApp.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\bin\Debug\net8.0\patika_w5_ImdbApp.pdb
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\patika_w5_ImdbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\patika_w5_ImdbApp.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\patika_w5_ImdbApp.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\patika_w5_ImdbApp.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\patika_w5_ImdbApp.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\refint\patika_w5_ImdbApp.dll
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\patika_w5_ImdbApp.pdb
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\patika_w5_ImdbApp.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week5\patika_w5_ImdbApp\patika_w5_ImdbApp\obj\Debug\net8.0\ref\patika_w5_ImdbApp.dll
